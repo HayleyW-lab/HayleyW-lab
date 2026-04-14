@@ -1,6 +1,6 @@
 # Hi, I'm Hayley Wilson 👋
 
-**Web Developer & Designer · Auckland, NZ 🇳🇿**
+**Web Developer & Designer · Auckland, NZ**
 
 > From a decade in sales — to building the solutions I used to sell.
 
